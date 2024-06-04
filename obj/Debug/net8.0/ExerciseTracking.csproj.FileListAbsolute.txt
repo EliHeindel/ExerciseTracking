@@ -1,0 +1,14 @@
+C:\Users\heind\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.exe
+C:\Users\heind\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.deps.json
+C:\Users\heind\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.runtimeconfig.json
+C:\Users\heind\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.dll
+C:\Users\heind\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.pdb
+C:\Users\heind\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heind\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfoInputs.cache
+C:\Users\heind\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfo.cs
+C:\Users\heind\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.csproj.CoreCompileInputs.cache
+C:\Users\heind\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.dll
+C:\Users\heind\ExerciseTracking\obj\Debug\net8.0\refint\ExerciseTracking.dll
+C:\Users\heind\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.pdb
+C:\Users\heind\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.genruntimeconfig.cache
+C:\Users\heind\ExerciseTracking\obj\Debug\net8.0\ref\ExerciseTracking.dll
